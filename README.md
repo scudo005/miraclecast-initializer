@@ -6,6 +6,9 @@
  First, make sure to install MiracleCast _before_ doing anyhing else.
 
  You can find it [here.](https://github.com/albfan/miraclecast "here.")
+
+ Then, run these commands:
+
  >`cd miraclecast-initializer`
 
  >`chmod +x miraclecast`
